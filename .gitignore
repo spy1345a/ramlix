@@ -1,0 +1,12 @@
+# Kernel source
+linux-7.2.3/
+
+# Build artifacts
+initramfs.img
+ramlix.iso
+rootfs/
+
+# Alpine minirootfs tarball
+*.tar.gz
+*.tar.xz
+*.tar.bz2
